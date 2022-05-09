@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clivaldoo
-- 👀 I’m interested in lear about programming 
+- 👀 I’m interested in learn about programming 
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on my doubts
 - 📫 How to reach me send a email
